@@ -1,13 +1,13 @@
 import React from 'react';
 import './Header.css';
 import Logo from '../../atoms/Logo/Logo';
-import MyAccountButton from '../../atoms/MyAccountButton/MyAccountButton';
+import MyFavorite from '../../atoms/MyAccountButton/MyFavorite';
 
 const Header = () => {
     return (
         <div className="header">
             <Logo/>
-            <MyAccountButton/>
+            <MyFavorite/>
         </div>
     )
 

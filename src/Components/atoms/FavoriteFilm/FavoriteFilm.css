@@ -3,7 +3,6 @@
     flex-wrap: wrap;
     display: flex;
     flex-direction: column;
-    margin-left: 20px;
     color: #3b3b3b;
     font-size: 20px;
     padding: 10px;
@@ -31,4 +30,8 @@
 .blackLine {
     border: 1px solid black;
     margin: 25px;
+}
+
+.poster {
+    margin-right: 20px;
 }
