@@ -1,0 +1,15 @@
+.unitWithPosters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.category {
+    color: #565656;
+    margin: 0 0 25px 30px;
+}
+
+.mainUnit {
+    padding-top: 25px;
+    background-color: #e7e7e7;
+}
